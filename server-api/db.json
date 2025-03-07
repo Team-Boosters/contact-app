@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "ff354d60-42ef-4308-9b02-0b8aba2588c8",
+      "name": "Kavineshwaran",
+      "email": "dsgkavin@gmail.com"
+    },
+    {
+      "id": "2e94dcce-1ce4-42c0-a406-549539174cde",
+      "name": "Preveen S",
+      "email": "spreveen123@gmail.com"
+    },
+    {
+      "id": "bc5c06dc-6840-4855-83a6-047ebd6910bd",
+      "name": "Avinash Dubey",
+      "email": "avinash12@gmail.com"
+    }
+  ]
+}
